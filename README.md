@@ -1,2 +1,2 @@
 # Hangman for android
-A simple hangman game developed in android oreo 8.0
+A simple hangman game developed in Android Oreo 8.0
